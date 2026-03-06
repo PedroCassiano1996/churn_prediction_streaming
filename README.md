@@ -14,4 +14,12 @@ O modelo analisa o comportamento do utilizador (acessos, suporte aberto, mensali
 - Modelo: Árvore de Decisão
 
 ## 📈 Resultados
-![Matriz de Correlação](correlacao.png) O modelo atingiu **98% de acurácia** nos dados de teste.
+
+### Matriz de Correlação
+![Matriz de Correlação](correlacao.png) 
+*A análise mostra uma forte ligação entre o baixo uso da plataforma e o cancelamento.*
+
+### Árvore de Decisão
+![Lógica do Modelo](arvore_decisao.png)
+*O modelo atingiu **98% de acurácia**, utilizando principalmente os 'Acessos_Mes' para a tomada de decisão.*
+
